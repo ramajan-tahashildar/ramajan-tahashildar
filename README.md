@@ -6,8 +6,8 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a few minutes
 
-<h1 align="center">Hi 👋, I'm Rohit Mugalkhod</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Ramajan Tahashildar </h1>
+<h3 align="center">A passionate Fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitm1518&label=Profile%20views&color=0e75b6&style=flat" alt="rohitm1518" /> </p>
 
