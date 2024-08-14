@@ -9,10 +9,6 @@
 <h1 align="center">Hi 👋, I'm Ramajan Tahashildar </h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitm1518&label=Profile%20views&color=0e75b6&style=flat" alt="rohitm1518" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="www.linkedin.com/in/ramajan-tahashildar-094b67227" target="blank"><img align="center" src="<i class="fab fa-linkedin-in"></i>" alt="Ramajan Tahashildar" height="30" width="40" /></a>
 
 <!---
