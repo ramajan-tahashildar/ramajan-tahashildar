@@ -9,8 +9,6 @@
 <h1 align="center">Hi 👋, I'm Ramajan Tahashildar </h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 
-<a href="www.linkedin.com/in/ramajan-tahashildar-094b67227" target="blank">
-<img align="center" src="<i class="fab fa-linkedin-in"></i>" </a>
 <!---
 ramajan-tahashildar/ramajan-tahashildar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
