@@ -6,6 +6,7 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I can solve a Rubik's Cube in just a few minutes.
 
+![](https://komarev.com/ghpvc/?username=ramajan-tahashildar&colour=ff69b4)
 <h1 align="center">Hi 👋, I'm Ramajan Tahashildar </h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 
