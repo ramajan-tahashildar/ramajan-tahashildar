@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ramajan-tahashildar&colour=ff69b4)
 <h1 align="center">Hi 👋, I'm Ramajan Tahashildar </h1>
-<h3 align="center">A passionate Fullstack developer</h3>
+![image](Contributors.png) <h3 align="center">A passionate Fullstack developer</h3>
 
 <!---
 ramajan-tahashildar/ramajan-tahashildar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
