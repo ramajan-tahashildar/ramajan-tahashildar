@@ -10,7 +10,9 @@
 
 <h1 align="center">Hi 👋, I'm Ramajan Tahashildar </h1>
 <h3 align="center">A passionate Fullstack developer</h3>
-
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ramajan-tahashildar&count_private=true&show_icons=true&theme=radical" alt="Stats"/> 
+</p>
 
 
 <!---
