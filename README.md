@@ -8,7 +8,11 @@
 
 ![](https://komarev.com/ghpvc/?username=ramajan-tahashildar&colour=ff69b4)
 
-<h1 align="center">Hi 👋, I'm Ramajan Tahashildar </h1>
+<p align="center">
+  <a href="https://github.com/ramajan-tahashildar">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20%F0%9F%91%8B%2C%20Shivam%20Javiya%20👨‍💻&font=Arial%3Abold&center=true&width=650&height=120&color=87CEEB&vCenter=true&size=45">
+  </a>
+</p>
 <h3 align="center">A passionate Fullstack developer</h3>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ramajan-tahashildar&count_private=true&show_icons=true&theme=radical" alt="Stats"/> 
