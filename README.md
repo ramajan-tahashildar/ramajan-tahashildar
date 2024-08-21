@@ -10,7 +10,7 @@
 
 <h2 align="center">
   <a href="https://github.com/ramajan-tahashildar">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,Ramajan%20Tahashildar%20👨‍💻&font=Arial%3Abold&center=true&width=650&height=120&color=87CEEB&vCenter=true&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,Ramajan+Tahashildar+👨‍💻&font=Arial%3Abold&center=true&width=600&height=100&color=87CEEB&vCenter=true&size=35">
   </a>
 </h2>
 <h3 align="center">A passionate Fullstack developer</h3>
