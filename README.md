@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Ramajan+Tahashildar+👨‍💻&font=Times+New+Roman&center=true&width=600&height=100&color=87CEEB&vCenter=true&size=35">
   </a>
 </h2>
-<h3 align="center">A passionate Fullstack developer</h3>
+<h3 align="center"><b>A passionate Software Engineer</b></h3>
 <br>
 
    👋 I’m [@ramajan-tahashildar](https://github.com/ramajan-tahashildar)
